@@ -11,3 +11,6 @@ This is my first attempt in learning HTML, CSS and JavaScript.
 
 ## Getting started
 Clone the repository and open the file index.html with your favorite browser. 
+
+## Author
+Mouna Rouh
